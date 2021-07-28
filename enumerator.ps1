@@ -68,6 +68,6 @@ net group "Domain Computers" /domain
 echo ""
 echo ""
 echo "=== enumerating domain admins ==="
-net group "Domain Computers" /domain
+net group "Domain Admins" /domain
 
 echo "=========================================================================="
